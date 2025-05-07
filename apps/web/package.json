@@ -79,7 +79,7 @@
     "micro": "^10.0.1",
     "monaco-jsx-highlighter": "^2.77.77",
     "motion": "^11.18.0",
-    "next": "15.3.0",
+    "next": "15.3.2",
     "next-themes": "^0.3.0",
     "node-fetch": "^3.3.2",
     "openai": "^4.86.1",
